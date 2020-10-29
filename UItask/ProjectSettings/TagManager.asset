@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Block
+  - Explosion
+  - Bomb
+  - Enemy
+  - ShockWave
+  - Obstacle
+  - Reserved
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Enemy
+  - Lights
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Ground
+    uniqueID: 1999804167
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Non-Destructible
+    uniqueID: 259732169
+    locked: 0
+  - name: Destructible
+    uniqueID: 1733409701
+    locked: 0
+  - name: Lantern
+    uniqueID: 119370733
+    locked: 0
+  - name: Player
+    uniqueID: 1018266871
+    locked: 0
+  - name: Enemy
+    uniqueID: 3549416119
+    locked: 0
+  - name: Tree Leaves
+    uniqueID: 3938967133
+    locked: 0
+  - name: Explosion
+    uniqueID: 3605335827
+    locked: 0
+  - name: top elements
+    uniqueID: 3684143257
+    locked: 0
+  - name: Edges
+    uniqueID: 2842825135
+    locked: 0
